@@ -14,5 +14,5 @@ else
     fi
     }
     zle -N _sgpt_zsh
-    bindkey '^l' _sgpt_zsh
+    bindkey '\ee' _sgpt_zsh
 fi
